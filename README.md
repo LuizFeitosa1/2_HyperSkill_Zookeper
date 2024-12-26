@@ -1,2 +1,5 @@
-# 2_HyperSkill_Zookeper
-2nd project made on the HyperSkill learning platform.
+# This is the *Zookeeper* project I made myself.
+
+Here's the link to the project: https://hyperskill.org/projects/133
+
+Check out my profile: https://hyperskill.org/profile/618863892
